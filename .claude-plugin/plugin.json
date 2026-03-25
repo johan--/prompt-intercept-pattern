@@ -1,0 +1,9 @@
+{
+  "name": "prompt-intercept-pattern",
+  "version": "1.0.0",
+  "description": "Example: hook-intercepted commands that run code without an API call",
+  "author": {
+    "name": "Kyle Snow Schwartz"
+  },
+  "license": "MIT"
+}
